@@ -1,6 +1,6 @@
-## 👋 Hello there, I'm Fardeen Khan!
+## 👋 Hello there, I'm Jotaro Kujo ⭐
 
-🚀 I'm a Cloud System Analyst with a strong focus on **AWS architecture**, **infrastructure automation**, and **DevOps practices**. With hands-on experience in provisioning, securing, and optimizing cloud environments, I strive to deliver scalable, secure, and cost-effective solutions—especially for biotech and tech-driven organizations.
+🚀 I'm a Cloud System Analyst with a strong focus on **AWS architecture**, **infrastructure automation**, and **DevOps practices**. With hands-on experience in provisioning, securing, and optimizing cloud environments, I strive to deliver scalable, secure, and cost-effective solutions.
 
 🛠️ **Tech Toolbox**  
 - **Cloud Platforms**: AWS (EC2, S3, Lambda, RDS, CloudFormation)  
