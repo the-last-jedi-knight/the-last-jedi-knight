@@ -15,7 +15,7 @@
 - AWS Solutions Architect  
 - LogicMonitor Associate  
 - Windows Server Admin & Active Directory  
-- *Currently pursuing:* HashiCorp Terraform Associate  
+- HashiCorp Terraform Associate  
 
 🎮 When I'm not deep-diving into the cloud ☁️, you'll find me exploring dark and atmospheric worlds in **Soulsborne** games or diving into **narrative-rich, story-driven adventures**. Games like *Bloodborne*, *Elden Ring*, and *The Last of Us* inspire the same curiosity, patience, and persistence I bring to tech.
 
